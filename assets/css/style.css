@@ -88,7 +88,7 @@ p {
 .avatar {
 	text-align: center;
 	padding: 60px 0;
-	background: #709ab0;
+	background: #bacfed;
 }
 .avatar img {
 	border-radius: 50%;
@@ -136,7 +136,7 @@ p {
 .circle {
 	font-size: 14px;
 	color: #fff;
-	background: #5982bd;
+	background: #7186c4;
 	border-radius: 50%;
 	text-align: center;
 	margin-right: 20px;
@@ -187,6 +187,8 @@ p {
 }
 .section__content {
 	padding-left: 90px;
+	border-bottom: 3px solid red;
+	padding-bottom: 30px;
 }
 .content .module:not(:first-child) {
 	margin-top: 50px;
