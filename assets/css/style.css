@@ -88,7 +88,8 @@ p {
 .avatar {
 	text-align: center;
 	padding: 60px 0;
-	background: #bacfed;
+	/* background: #3e5764; */
+	background: #293e49;
 }
 .avatar img {
 	border-radius: 50%;
