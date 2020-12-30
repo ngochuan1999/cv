@@ -204,6 +204,11 @@ p {
 .lang__content {
 	margin: 0 10px;
 	text-align: center;
+	width: 265px;
+}
+.lang__content a {
+	text-decoration: none;
+	color:#263238;
 }
 .lang__content h4 {
 	text-transform: uppercase;
