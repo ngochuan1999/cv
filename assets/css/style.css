@@ -185,6 +185,8 @@ p {
 	font-size: 28px;
 	text-transform: uppercase;
 	margin: 0 0 10px;
+	color: green;
+	font-weight: bold;
 }
 .section__content {
 	padding-left: 90px;
